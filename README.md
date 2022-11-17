@@ -12,7 +12,4 @@
 ## 4. Fnatic
 ![](https://s.yimg.com/ny/api/res/1.2/Zq6KOr25PzzzdrhJRKKIEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/c794d010-751e-11ec-92d9-5e867c087b04)
 
-
-
-
-
+>League of Legends Worlds Opening
