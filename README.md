@@ -12,6 +12,19 @@
 ## 4. Fnatic
 ![](https://s.yimg.com/ny/api/res/1.2/Zq6KOr25PzzzdrhJRKKIEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/c794d010-751e-11ec-92d9-5e867c087b04)
 
->League of Legends Worlds Opening
+> ### League of Legends Worlds Opening
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HYsz1hP0BFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> ### WORLDS QUARTER FINALS TOP PLAYS 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBKVXpLatwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> ### WORLDS SEMI FINALS TOP PLAYS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ET1cFbSGuIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>### WORDS FINALS TOP PLAYS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AVQMhQ3KRco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
