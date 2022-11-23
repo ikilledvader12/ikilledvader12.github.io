@@ -1,6 +1,6 @@
 ##  ikilledvader12.github.io
 ># My Favorite ESPORTS.
-![alt text](https://images.contentstack.io/v3/assets/bltad9188aa9a70543a/bltee0947ea235d63dd/632140fd5a8acf5d92ccd8e0/W22_TEMPLATE_16x9_KV_GENERIC_PLAYINS.png?width=3200&height=1800)
+![alt text](https://images.contentstack.io/v3/assets/bltad9188aa9a70543a/bltee0947ea235d63dd/632140fd5a8acf5d92ccd8e0/W22_TEMPLATE_16x9_KV_GENERIC_PLAYINS.png?width=1000&height=600)
 ## ***The League of Legends World Championship is the annual professional League of Legends world championship tournament hosted by Riot Games and is the culmination of each season. Teams compete for the champion title, the 70-pound Summoner's Cup, and a multi-million-dollar championship prize.***
 ### My Top League of Legensd Worlds teams
 ## 1. DRX
